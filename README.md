@@ -1,4 +1,4 @@
-# Hi there! 🌱
+# Hi there! 
 
 -I'm a 4th-year undergraduate student majoring in Electronics and Communication Engineering at JMI University.  
 -I'm passionate about building products around problems and research in AI.   
